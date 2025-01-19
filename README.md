@@ -1,3 +1,6 @@
+![Frame 2693](https://github.com/user-attachments/assets/3bdf0b14-15c2-4fc7-b32a-c316525ce128)
+![Rectangle 153](https://github.com/user-attachments/assets/f9a04c5c-c3a9-41b4-881b-ccce9cd1b0bc)
+
 # Fluentoo - Language Learning Application
 
 Fluentoo is an innovative, full-stack language learning application designed to help users expand their vocabulary and reinforce knowledge through interactive flashcards and engaging memory games.
