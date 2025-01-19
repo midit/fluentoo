@@ -4,7 +4,7 @@ Fluentoo is an innovative, full-stack language learning application designed to 
 
 ## Key Features
 
-- **Flashcards (Fishki):**
+- **Flashcards:**
   - Create custom flashcards with questions and answers.
   - Track detailed session statistics: accuracy, total cards practiced, and results history.
   - Earn points for correct answers and improve your score over time.
