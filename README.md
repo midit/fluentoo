@@ -1,5 +1,5 @@
 ![Frame 2693](https://github.com/user-attachments/assets/3bdf0b14-15c2-4fc7-b32a-c316525ce128)
-![Rectangle 153](https://github.com/user-attachments/assets/f9a04c5c-c3a9-41b4-881b-ccce9cd1b0bc)
+![Rectangle 153](https://github.com/user-attachments/assets/9e901a67-9e0b-4428-b903-5471f4aaaf39)
 
 # Fluentoo - Language Learning Application
 
