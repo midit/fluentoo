@@ -80,7 +80,7 @@ VITE_API_URL=your_backend_api_url
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fluentoo.git
+git clone https://github.com/midit/fluentoo.git
 cd fluentoo
 ```
 
