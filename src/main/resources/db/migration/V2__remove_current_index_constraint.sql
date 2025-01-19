@@ -1,0 +1,1 @@
+ALTER TABLE revisions ALTER COLUMN current_index DROP NOT NULL; 
